@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/AspireDevsBanner.png" alt="Aspire Development Banner" width="100%"/>
+  <img src="profile/assets/AspireDevsBanner.png" alt="Aspire Development Banner" width="100%"/>
 </p>
 
 # Welcome to Aspire Development 👋
