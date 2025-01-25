@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/aspire-banner.png" alt="Aspire Development Banner" width="100%"/>
+  <img src="assets/AspireDevsBanner.png" alt="Aspire Development Banner" width="100%"/>
 </p>
 
 # Welcome to Aspire Development 👋
@@ -46,8 +46,15 @@ Professional developer portfolio platform with:
 
 ## 📬 Connect With Us
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/AspireDevs)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=custom&logoColor=white)](mailto:contact@aspiredev.in)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/AspireDev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/company/aspiredev)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:contact@aspiredev.in)
+
+## 📈 Project Stats
+
+[![GitHub Stars](https://img.shields.io/github/stars/aspiredev/imgnet)](https://github.com/aspiredev/imgnet/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/aspiredev/imgnet)](https://github.com/aspiredev/imgnet/issues)
+[![GitHub PRs](https://img.shields.io/github/issues-pr/aspiredev/imgnet)](https://github.com/aspiredev/imgnet/pulls)
 
 ---
 
